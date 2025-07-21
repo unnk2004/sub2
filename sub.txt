@@ -1,0 +1,2 @@
+vless://c4746da0-9195-4c01-ae9e-fc4eae06e696@skynets.uk:443?type=tcp&security=reality&pbk=RSHIrnOC7C9dGR5HR7sitd2YaASzQEkN9RLa0CDIFAo&fp=chrome&sni=google.com&sid=7a970fd2&spx=%2F&flow=xtls-rprx-vision#6ujpkqvy-SkynetVPN2
+vless://c4746da0-9195-4c01-ae9e-fc4eae06e696@nl.skynets.uk:443?type=tcp&security=reality&pbk=RSHIrnOC7C9dGR5HR7sitd2YaASzQEkN9RLa0CDIFAo&fp=chrome&sni=google.com&sid=7a970fd2&spx=%2F&flow=xtls-rprx-vision#6ujpkqvy-SkynetVPN2
