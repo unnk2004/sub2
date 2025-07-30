@@ -1,12 +1,9 @@
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-1.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=de.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Германия 🇩🇪 
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-7.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=sto.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Швеция 🇸🇪
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-10.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=ru.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Россия 🇷🇺 [YouTube без рекламы]
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-18.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=fin.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Финляндия 🇫🇮
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-16.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=est.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Эстония 🇪🇪
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-8.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=ams.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Нидерланды 🇳🇱
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-17.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=tr.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Турция 🇹🇷
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-11.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=lax.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#США 🇺🇸
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-3.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=par.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Франция 🇫🇷 
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-4.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=lon.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Великобритания 🇬🇧
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-19.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=kz.eu-ffast.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Казахстан 🇰🇿
-vless://33750d96-5d33-492d-b201-cd9b53235bd4@gl2s5qmdrv.country-15.eu-ffast.com:443?type=tcp&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&fp=chrome&sni=google.com&sid=50&spx=%2F&flow=xtls-rprx-vision#Резервный сервер
+{
+  "name": "Skynet VPN",
+  "icon": "https://www.svgrepo.com/show/535115/alien.svg",
+  "url": "https://t.me/skynetVPNrobot",
+  "servers": [
+    "vless://c4746da0-9195-4c01-ae9e-fc4eae06e696@de.skynets.uk:443?type=tcp&security=reality&pbk=RSHIrnOC7C9dGR5HR7sitd2YaASzQEkN9RLa0CDIFAo&fp=chrome&sni=google.com&sid=7a970fd2&spx=%2F&flow=xtls-rprx-vision#6ujpkqvy-SkynetVPN2",
+    "vless://c4746da0-9195-4c01-ae9e-fc4eae06e696@nl.skynets.uk:443?type=tcp&security=reality&pbk=RSHIrnOC7C9dGR5HR7sitd2YaASzQEkN9RLa0CDIFAo&fp=chrome&sni=google.com&sid=7a970fd2&spx=%2F&flow=xtls-rprx-vision#6ujpkqvy-SkynetVPN2"
+  ]
+}
